@@ -1,5 +1,6 @@
 #include <iostream.h>
 #include <conio.h>
+#include <ziemayo>
 
 main()
 {
